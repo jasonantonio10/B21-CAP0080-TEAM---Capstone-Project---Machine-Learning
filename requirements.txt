@@ -1,0 +1,6 @@
+tensorflow=v2.5.0
+numpy=v1.20.3
+matplotlib=v3.4.2
+python=v3.7
+scikit-learn=v0.24.2
+keras=v2.4.0
