@@ -1,5 +1,5 @@
 # B21-CAP0080-TEAM---Capstone-Project---Machine-Learning
-Repository for Machine Learning part of Capstone Project titled "Skin disease image classification"
+Repository for Machine Learning part of Bangkit 2021 Capstone Project titled "Skin disease image classification"
 
 ## Transfer Learning using MobileNetV2
 * See 'requirements.txt' for packages that need to be installed.
@@ -11,3 +11,6 @@ Repository for Machine Learning part of Capstone Project titled "Skin disease im
 * In the cell under "Data random sampling and splitting into training and validation data", use the split_data function and adjust the splitting ratio as wished.
 * Set the path to source directory from which images will be copied and set also the destination path to the respective sub-directories to which images will be copied.
 * In the cell under "Image data augmentation and pre-processing using Keras ImageDataGenerator and MobileNetV2 preprocessing function" adjust paramaters for augmentation in the ImageDataGenerator class.
+
+## Results
+
