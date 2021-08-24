@@ -13,4 +13,5 @@ Repository for Machine Learning part of Bangkit 2021 Capstone Project titled "Sk
 * In the cell under "Image data augmentation and pre-processing using Keras ImageDataGenerator and MobileNetV2 preprocessing function" adjust paramaters for augmentation in the ImageDataGenerator class.
 
 ## Results
+Achieved 83.7% training accuracy eventhough only managed to reach 64.47% validation accuracy due to imbalanced and high variance in image data. Further improvement is required. The use of image segmentation before feeding into the neural network may be tried, along with other sampling techniques.
 
